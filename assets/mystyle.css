@@ -45,6 +45,7 @@
         justify-content: space-between;
         margin-top: 5px;
         background-color: rgba(111, 111, 111, 0.3);
+        align-items: center;
     }
 
     .header_logo {
@@ -234,7 +235,7 @@
         background-color: rgba(255, 255, 255, 0.7);
         border-radius: 30px;
         height: auto;
-        margin: 15px;
+        margin: 10px;
     }
 
     .div_img_3 {
