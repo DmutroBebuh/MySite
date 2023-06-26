@@ -274,19 +274,3 @@
         text-align: center;
         font-size: 16px;
     }
-.footer{
-    width: 100%;
-    height:550px;
-    background-color: black;
-    margin: 0;
-    text-align: center;
-    padding-top: 50px;
-
-
-}
-footer a{
-    margin-left: 20px;
-}
-.img_logo{
-    height: 200px;
-}
