@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.body {
+    background-color: peachpuff;
+    width: auto;
+    height: auto;
+    margin: 0;
+    padding: 0;
+    background: url(https://bogatyr.club/uploads/posts/2023-01/thumbs/1674742170_bogatyr-club-p-fon-dlya-saita-fon-1.jpg) no-repeat;
+    background-size: cover;
+
+}
+.box{
+    width: 450px;
+    background: rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    color: white;
+    font-family: 'Century Gothic',sans-serif;
+    border-radius: 30px;
+}
+.box-img{
+    display: block;
+    margin: 0 auto;
+    width: 100;
+    height: 100;
+}
+.box h1{
+    font-size: 40px;
+    font-weight: 100 ;
+    margin-top: 20px;
+    background-color: unset;
+    padding: initial;
+    letter-spacing: 4px;
+}
+
+.box h3{
+    font-size: 18px;
+    letter-spacing: 3px;
+    font-weight: 100;
+    margin:  0;
+    background-color: unset;
+}
+.box p{
+    text-align: center;
+    background-color: unset;
+
+}
+ul{
+    margin: 0;
+    padding: 0;
+}
+.box li{
+    display: inline-block;
+    margin: 6px;
+    list-style: none;
+}

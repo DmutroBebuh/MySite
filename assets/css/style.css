@@ -80,3 +80,14 @@ alert('Something went wrong')
 });
 
  */
+.p{
+    font-family: fantasy;
+    align-content: center;
+    justify-content: center;
+
+}
+.form-group{
+    justify-content: center;
+   align-items: center;
+
+}
